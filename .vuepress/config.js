@@ -21,34 +21,27 @@ module.exports = {
     "theme": "reco",
     locales: {
         '/': {
-            lang: 'ja-JP',
+            lang: 'en-US',
         },
     },
     "themeConfig": {
+        noFoundPageByTencent: false,
         "nav": [{
                 "text": "Home",
                 "link": "/",
                 "icon": "reco-home"
             },
+
             {
                 "text": "Contact",
                 "icon": "reco-message",
                 "items": [{
                     "text": "GitHub",
-                    "link": "https://github.com/recoluan",
+                    "link": "https://github.com/ydaigo",
                     "icon": "reco-github"
                 }]
             }
         ],
-        "sidebar": {
-            "/docs/theme-reco/": [
-                "theme",
-                "plugin",
-                "api",
-                "introduction",
-                "deploy"
-            ]
-        },
         "type": "blog",
         "blogConfig": {
             "category": {
@@ -64,10 +57,9 @@ module.exports = {
         "search": true,
         "searchMaxSuggestions": 10,
         "lastUpdated": "Last Updated",
-        "author": "",
+        "author": "daigo",
         "authorAvatar": "/avatar.png",
-        "record": "xxxx",
-        "startYear": "2017"
+        "startYear": "2021"
     },
     "markdown": {
         "lineNumbers": true

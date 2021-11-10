@@ -1,6 +1,10 @@
 ---
 title: このブログの立て方
 date: 2020-05-29
+tags:
+ - tag1
+categories:
+ -  category1
 ---
 
 # 開発環境
