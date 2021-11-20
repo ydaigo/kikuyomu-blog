@@ -11,6 +11,7 @@ tagline: 技術系の記事を中心に書いていきます。
 #   background: '#fff',
 #   borderRadius: '1rem',
 # }
+bgImage: bg.svg
 bgImageStyle: {
   height: '450px'
 }

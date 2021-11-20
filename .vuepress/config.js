@@ -21,7 +21,7 @@ module.exports = {
     "theme": "reco",
     locales: {
         '/': {
-            lang: 'en-US',
+            lang: 'ja-JP',
         },
     },
     "themeConfig": {
@@ -71,26 +71,9 @@ module.exports = {
                     'blackCat', 'whiteCat', 'wanko',
                 ],
                 clean: true,
-                modelStyle: { right: '30px', bottom: '-20px' },
+                modelStyle: { left: '30px', bottom: '-20px' },
                 width: 25 * 5,
                 height: 32 * 5
-            }
-        ],
-        [
-            "@vuepress-reco/vuepress-plugin-bgm-player", {
-                audios: [{
-                        name: 'おなじみの風景',
-                        artist: 'ハヤシユウ',
-                        url: '/familiar.mp3',
-                        cover: '/familiar.jpg'
-                    },
-                    {
-                        name: 'かえるのピアノ',
-                        artist: 'こおろぎ',
-                        url: 'piano.mp3',
-                        cover: 'piano.jpg'
-                    }
-                ]
             }
         ],
     ],
