@@ -1,5 +1,5 @@
 ---
-title: Flutter
+title: Flutterを使ってみた
 date: 2021-11-21
 tags:
  - Flatter
@@ -7,7 +7,6 @@ categories:
  -  native app
 ---
 
-# Flutterを使ってみた
 
 友達と発音練習用のネイティブアプリを作ることになったので、Flutterを勉強しています。
 発音練習で必要なのは音声認識であるため、Flutterで音声認識のサンプルを動かしました。参考にしたサイトです。
