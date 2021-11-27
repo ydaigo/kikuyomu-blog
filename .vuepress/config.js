@@ -1,6 +1,6 @@
 module.exports = {
-    "title": "",
-    "description": "",
+    "title": "きくよむのブログ",
+    "description": "技術系の記事を中心に書いていきます。",
     "dest": "public",
     "head": [
         [

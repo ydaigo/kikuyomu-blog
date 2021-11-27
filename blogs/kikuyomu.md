@@ -4,7 +4,7 @@ date: 2021-11-1
 tags:
  - 個人開発
 categories:
- -  web
+ -  Web
 ---
 
 こちらの記事はnoteに投稿した内容に一部変更を加えたものです。

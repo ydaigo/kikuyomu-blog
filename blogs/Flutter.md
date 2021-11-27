@@ -2,7 +2,7 @@
 title: Flutterを使ってみた
 date: 2021-11-21
 tags:
- - Flatter
+ - Flutter
 categories:
  -  native app
 ---
@@ -13,9 +13,9 @@ categories:
 
 https://zenn.dev/kazutxt/books/flutter_practice_introduction/viewer/smartphone_stt#android
 
-動かそうとしたところ、依存関係の問題が多発しました。インストールするライブラリのバージョンの依存関係の問題、実機のandroidのバージョン、targetSdkVersionです。アプリを実際に公開するとなると古いバージョンのandroidを使っている人もいるから、考慮事項が多くなると思いました。
+動かそうとしたところ、依存関係の問題が多発しました。インストールするライブラリのバージョンの依存関係、実機のandroidのバージョン、targetSdkVersionのエラーが生じました。アプリを実際に公開するとなると古いバージョンのandroidを使っている人もいるため、考慮事項が多くなると思いました。
 
-こちらが利用した、Flutterの音声認識のライブラリです。最新バージョンの5.2.0はAndroidのAPIレベルが31である実機が対応していなかったため、4.2.2 を使いました。
+こちらが利用した、Flutterの音声認識のライブラリです。最新バージョンの5.2.0はAndroidのAPIレベルが31である実機が対応していなかったため、4.2.2 を利用しました。
 
 https://pub.dev/packages/speech_to_text
 
