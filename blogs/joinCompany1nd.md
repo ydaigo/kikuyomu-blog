@@ -1,6 +1,6 @@
 ---
 title: 入社一年目でやったこと
-date: 2021-11-27
+date: 2021-11-21
 tags:
  - 会社
 categories:
