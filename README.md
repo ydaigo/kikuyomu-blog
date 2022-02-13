@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: きくよむのブログa
+heroText: きくよむのブログ
 tagline: 技術系の記事を中心に書いていきます。
 # heroImage: /hero.png
 # heroImageStyle: {
