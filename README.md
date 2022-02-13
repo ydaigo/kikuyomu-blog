@@ -1,5 +1,3 @@
-![](https://github.com/ydaigo/kikuyomu-blog/blob/main/.github/workflows/node.js.yml/badge.svg)
-
 ---
 home: true
 heroText: きくよむのブログ
@@ -21,3 +19,5 @@ isShowTitleInHome: false
 actionText: Guide
 actionLink: /views/other/guide
 ---
+
+![](https://github.com/ydaigo/kikuyomu-blog/blob/main/.github/workflows/node.js.yml/badge.svg)
