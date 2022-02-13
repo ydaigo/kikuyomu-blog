@@ -1,3 +1,5 @@
+![](https://github.com/ydaigo/kikuyomu-blog/blob/main/.github/workflows/node.js.yml/badge.svg)
+
 ---
 home: true
 heroText: きくよむのブログ
