@@ -19,5 +19,3 @@ isShowTitleInHome: false
 actionText: Guide
 actionLink: /views/other/guide
 ---
-
-![](https://github.com/ydaigo/kikuyomu-blog/actions/workflows/node.js.yml/badge.svg)
