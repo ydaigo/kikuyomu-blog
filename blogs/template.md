@@ -1,10 +1,14 @@
 ---
 title: テンプレート
 date: 2022-1-1
-tags:
- - 旅行
-categories:
- - 自分史
 ---
 
 テンプレート
+
+```mermaid
+sequenceDiagram
+Alice->John: Hello John, how are you?
+loop every minute
+    John-->Alice: Great!
+end
+```
