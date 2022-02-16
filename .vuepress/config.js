@@ -76,5 +76,6 @@ module.exports = {
                 height: 32 * 5
             }
         ],
+        'vuepress-plugin-mermaidjs'
     ],
 }
