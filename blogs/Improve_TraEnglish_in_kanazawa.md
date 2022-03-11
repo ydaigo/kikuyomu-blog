@@ -7,6 +7,8 @@ tags:
   - 個人開発
 ---
 
+## mindmap
+
 ```markmap
 - TraEnglish in kanazawa
   - はじめに
