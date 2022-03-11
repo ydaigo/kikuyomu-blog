@@ -76,7 +76,6 @@ module.exports = {
                 height: 32 * 5
             }
         ],
-        'vuepress-plugin-mermaidjs',
-        'vuepress-plugin-markmap'
+        'vuepress-plugin-mermaidjs'
     ],
 }
