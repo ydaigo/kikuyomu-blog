@@ -7,4 +7,13 @@ tags:
   - 個人開発
 ---
 
+```markmap
+- TraEnglish in kanazawa
+  - はじめに
+  - 1日目
+    - Flutterのプロジェクトを教える
+    - C#のWindowsアプリを教えてもらう
+    - TraEnglish Desktopのユーザーが来た
+```
+
 TraEnglishを一緒に開発をしているとらちゃんと金沢で一泊二日で会いました。
