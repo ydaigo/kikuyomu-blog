@@ -9,7 +9,7 @@ tags:
 
 ## mindmap
 
-```markmap
+```
 - TraEnglish in kanazawa
   - はじめに
   - 1日目
@@ -18,4 +18,6 @@ tags:
     - TraEnglish Desktopのユーザーが来た
 ```
 
-TraEnglishを一緒に開発をしているとらちゃんと金沢で一泊二日で会いました。
+## はじめに
+
+TraEnglishを一緒に開発をしているとらちゃんと金沢で一泊二日で会いました。金沢ではITビジネスプラザというところが無料でコアワーキングスペースを提供していた
