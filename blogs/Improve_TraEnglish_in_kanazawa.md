@@ -25,6 +25,15 @@ TraEnglishはC#で作られておりUIはWinFormでGUIで構築するため画�
 
 19時からTraEnglish　Desktopのユーザーさんが来てくれました。初対面かと思っていたが、とらちゃんと一度会ったことがあるそうです。実際に使っている人の話を聞けたのは良かったです。
 
+TORIFITO HOTEL&POTに泊まりました。
+
+![IMG_20220311_064419564](https://user-images.githubusercontent.com/44220424/158014106-81cba9b5-0d97-443d-b432-1289c6c7e919.jpg)
+![IMG_20220310_212038098_HDR](https://user-images.githubusercontent.com/44220424/158014131-765ff58c-1d5b-4023-81ab-a659386af272.jpg)
+
 # 2日目
 
 とらちゃんのFlutterの開発環境作成を手伝いました。またDesktop版でFirebaseが使えることを確認しました。
+
+お昼は昨日会ったTraEnglish Desktopのユーザーさんの友達が働いている「市の蔵」という海鮮丼屋に行きました
+
+![IMG_20220311_133056876](https://user-images.githubusercontent.com/44220424/158014145-4ae9858f-8a89-43fd-9ab9-58a0b0de56e7.jpg)
