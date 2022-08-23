@@ -1,6 +1,10 @@
 ---
 title: テンプレート
 date: 2022-1-1
+tags:
+ - 個人開発
+categories:
+ -  Web
 ---
 
 テンプレート
