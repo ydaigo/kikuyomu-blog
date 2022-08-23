@@ -1,6 +1,6 @@
 ---
 title: 会社のベテランたちはDBの理解が早い
-date: 2022-1-1
+date: 2022-8-24
 tags:
  - DB
 categories:
