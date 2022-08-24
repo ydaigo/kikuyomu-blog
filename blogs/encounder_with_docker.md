@@ -5,7 +5,7 @@ date: 2021-11-29
 tags:
  - Docker
 categories:
- -  自分史
+ -  自分
 ---
 
 # Dockerとの出会い
